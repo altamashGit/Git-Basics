@@ -1,5 +1,5 @@
 
-Let's Start
+# Let's Start
 *********************************************************
 # What is Git......?
 
@@ -13,6 +13,9 @@ Git is Version Control System ,
 ++  It is Popular
 ++  Free and Open Sourse
 ++  Fast & scalable
+
+# What is GitHub......?
+Most of the time, you hear Git and GitHub as different terminologies. Let's understand: Git is software that works either remotely or on your local machine to track changes in your code. On the other hand, GitHub is a web-based service that hosts Git repositories and enhances collaboration. In short, Git manages your code locally, while GitHub helps you share and collaborate online.
 
 **********************************************************
 # Git Is In Use of :-
