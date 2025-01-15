@@ -1,7 +1,7 @@
 
 Let's Start
 *********************************************************
-What is Git......?
+# What is Git......?
 
 Git is a distributed version control system that tracks changes in code, helps manage project versions,
  and enables collaboration by allowing multiple developers to work on the same project simultaneously.
@@ -15,7 +15,7 @@ Git is Version Control System ,
 ++  Fast & scalable
 
 **********************************************************
-Git Is In Use of :-
+# Git Is In Use of :-
 1. Tracking Changes/History 
 Git is very usefull while working on project and you want to track every changes that you made(e.g. , code . document. configuration)
 
@@ -33,8 +33,8 @@ Git is also good while create a branches for working in new features,bug fixes ,
 One of the most demanding work CI/CD pipeline to automate development and testing .
 
 In Use Cases
-# Software development (e.g , Coding Projects)
-# Documentation Projects (e.g , techinica; writing, tutorials)
-# Configuration Infrastructure-as-code (e.g , Terraform , Ansible)
-# Personal Projects to track progress or collabration
-# Git-Basics
+@ Software development (e.g , Coding Projects)
+@ Documentation Projects (e.g , techinica; writing, tutorials)
+@ Configuration Infrastructure-as-code (e.g , Terraform , Ansible)
+@ Personal Projects to track progress or collabration
+@ Git-Basics
