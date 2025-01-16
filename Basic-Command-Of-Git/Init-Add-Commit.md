@@ -15,7 +15,7 @@ Run this command:
        
         Initialized empty Git repository in /path/to/your/project/.git/
 
-![Screenshot from 2025-01-15 16-14-32](https://github.com/user-attachments/assets/16831737-f78d-4f74-8d7c-af01ad5afcbe)
+![Screenshot from 2025-01-16 13-17-00](https://github.com/user-attachments/assets/dd7e38e5-7444-491e-9a2e-6fd15eb2526e)
 
 ✨ Now Git is paying attention to your project. It created a hidden .git folder to track changes behind the scenes. 🎉
 
