@@ -49,3 +49,5 @@ If you want to stage everything in your project (like multiple files or folders)
 # ✨ What’s happening?
 Think of git add like packing your changes into a box and saying,
 "These are the files I want to commit next." Until you stage them, Git doesn’t include them in the next step.
+
+****************************************************************************************************************
